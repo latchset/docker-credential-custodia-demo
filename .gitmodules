@@ -1,0 +1,9 @@
+[submodule "custodia"]
+	path = custodia
+	url = https://github.com/latchset/custodia.git
+[submodule "godeps/src/github.com/latchset/docker-credential-custodia"]
+	path = godeps/src/github.com/latchset/docker-credential-custodia
+	url = https://github.com/latchset/docker-credential-custodia.git
+[submodule "godeps/src/github.com/docker/docker-credential-helpers"]
+	path = godeps/src/github.com/docker/docker-credential-helpers
+	url = https://github.com/docker/docker-credential-helpers.git
