@@ -1,4 +1,4 @@
-DOCKER_CREDENTIAL_CUSTODIA=godeps/src/github.com/tiran/docker-credential-custodia
+DOCKER_CREDENTIAL_CUSTODIA=godeps/src/github.com/latchset/docker-credential-custodia
 DCC_BIN=$(DOCKER_CREDENTIAL_CUSTODIA)/docker-credential-custodia
 DOCKER_CMD=sudo docker
 DOCKER_IMAGE=dcc_demo
